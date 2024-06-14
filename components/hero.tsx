@@ -23,12 +23,12 @@ const Hero = () => {
           </h1>
 
           <TextGenerateEffect
-          words="Welcome to my portfolio website"
+          words="Hello I&apos;am Vikas Sharma Web-Developer"
            className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
-          <p className='text-center'>
-             Hi I&apos;am Vikas
+          <p className='text-center text-xl'>
+          Transforming Ideas into Reality
           </p>
 
           <a href='#about'> 
