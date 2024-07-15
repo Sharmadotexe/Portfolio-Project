@@ -81,8 +81,8 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Pinterest-Clone",
-    des: "This Pinterest app allows users to upload images, videos, and articles directly from their devices, empowering them to contribute their own content to the platform.",
+    title: "PinHub",
+    des: "This PinHub app allows users to upload images, videos, and articles directly from their devices, empowering them to contribute their own content to the platform.",
     img: "/pin.png",
     iconLists: ["/ejs.svg", "/node.svg", "/js.svg", "/css.svg"],
     link: "https://github.com/Sharmadotexe/Pintrest-Clone",
@@ -98,7 +98,7 @@ export const projects = [
   {
     id: 4,
     title: "Weather-Application",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    des: "The Weather App is a web application built using React and integrated with the OpenWeather API. It allows users to check real-time weather conditions",
     img: "/weather.png",
     iconLists: ["/re.svg", "/css.svg", "/js.svg"],
     link: "https://github.com/Sharmadotexe/React-Weather-App",
